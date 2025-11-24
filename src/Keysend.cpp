@@ -88,7 +88,7 @@ static const KeyAction keymap[NUM_ROWS][NUM_COLS] = {
     KA_empty(), KA_empty(), KA_empty(), KA_empty(), KA_empty(), KA_empty(), KA_empty(), KA_empty(), KA_empty() },
 
   // Row 1
-  { KA_chord('f', A), KA_chord('u', A), KA_chord('g', A), KA_chord('m', C), KA_chord('c', C),
+  { KA_chord('e', A), KA_chord('u', A), KA_chord('g', A), KA_chord('m', C), KA_chord('c', C),
     KA_key(KEY_F1), KA_key(KEY_F2), KA_key(KEY_F3), KA_key(KEY_F4), KA_empty(),
     KA_key(KEY_F5), KA_key(KEY_F6), KA_key(KEY_F7), KA_key(KEY_F8) },
 
