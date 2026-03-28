@@ -112,7 +112,7 @@ static const KeyAction keymap[NUM_ROWS][NUM_COLS] = {
 
   // Row 6
   { KA_empty(), KA_empty(), KA_chord(']', A), KA_chord('p', C), KA_chord('q', C), KA_chord('w', C),
-    KA_empty(), KA_base('4'), KA_base('5'), KA_base('6'), KA_chord('t', A), KA_empty(), KA_empty(), KA_empty() },
+    KA_empty(), KA_base('4'), KA_base('5'), KA_base('6'), KA_base('t'), KA_empty(), KA_empty(), KA_empty() },
 
   // Row 7
   { KA_empty(), KA_key(KEYPAD_ASTERIX), KA_empty(), KA_empty(), KA_empty(), KA_empty(), KA_empty(),
